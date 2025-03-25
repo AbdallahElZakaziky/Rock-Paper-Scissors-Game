@@ -5,7 +5,7 @@ This is my first Full project that covers only the basics of object oriented pro
 
 It's a simple console app implementation of the classic Rock-Paper-Scissors game.  
 
-## Key features:
+## Key features
 
 - You can play against a friend or against a bot.
 - You can choose to either play 3 , 5 , or 7 rounds.
